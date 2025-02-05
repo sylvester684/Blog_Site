@@ -1,5 +1,5 @@
 <p align="center" style="margin-top: 120px">
-  <img width="1040" alt="Cover" src="https://github.com/timtbdev/Next.js-Blog-App/assets/25026241/f4d08597-8f6e-4a2e-8807-0490eb7859be">
+  <img width="1040" alt="Cover" src="">
 
   <h1 align="center">Multi-User, Full-stack Blogging Applicaition</h1>
 
