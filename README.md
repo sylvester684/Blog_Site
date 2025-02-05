@@ -24,17 +24,13 @@ The [Blogging application](https://ub.cafe) is a multi-user, full-stack Next.js 
 
 <img width="1040" alt="Cover" src="https://github.com/timtbdev/Next.js-Blog-App/assets/25026241/d263479c-853f-40ed-aed4-58c5cbb8b14c">
 
-## 📹 Preview
 
-https://github.com/timtbdev/Next.js-Blog-App/assets/25026241/c0488b1b-ff48-4871-849d-806f09c39322
+
 
 ## 🧰 Backend
 
 <img width="1040" alt="Cover" src="https://github.com/timtbdev/Next.js-Blog-App/assets/25026241/c5cd3077-b955-43fd-b6ea-2f3b5f9297c9">
 
-## 📹 Preview
-
-https://github.com/timtbdev/Next.js-Blog-App/assets/25026241/29c35c5f-ad67-4f5b-9943-0fd0d94448b8
 
 ## 💾 Database Schema
 
